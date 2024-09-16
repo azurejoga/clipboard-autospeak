@@ -24,11 +24,10 @@ For Jieshuo screen reader users:
 3. Download and Activate the **Clipboard autospeak** extension.
 4. The app will automatically start monitoring clipboard activity and vocalize the copied content in the background.
 5.  After you click on extensions and clipboard autospeak a message will be spoken indicating that the extension will be active
-Everything is ready, you can start using!### Future Updates
+Everything is ready, you can start using!
 
 ## future plans
 - **Standalone APK release**: the app will be made available as a downloadable APK, expanding compatibility across all Android devices without relying on a screen reader.
-- **Improved TTS controls**: Users will be able to configure voice, speed and tone options directly in the app.
 
 
 Stay tuned for more updates as we prepare to release the APK version!
