@@ -1,6 +1,6 @@
 ## : Real-time clipboard monitoring with TTS for Android
 
-## Credit, master_kaushik
+## Credit, Ashish Kaushik
 
 ### Overview
 This Android app provides real-time clipboard monitoring, automatically vocalizing any copied text using Text-to-Speech (TTS) technology. Designed for continuous operation in the background, it provides an efficient and smooth user experience without interruptions.
@@ -38,4 +38,4 @@ Stay tuned for more updates as we prepare to release the APK version!
 
 
 ### credit and divulgation!
-Develloped by master_kaushik
+Develloped by Ashish Kaushik
